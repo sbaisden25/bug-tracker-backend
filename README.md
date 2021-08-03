@@ -1,0 +1,1 @@
+Bug Tracker Backend built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with PostgreSQL, and Spring MVC.  Frontend currently in development using Angular.  Recreated repo with secrets removed on 8/03/2021 for transition to public.
